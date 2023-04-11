@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mid Morning App Two</string>
+    <string-array name="contacts">
+        <item>Valerie</item>
+        <item>Joy</item>
+        <item>Innocent</item>
+        <item>Everlyne</item>
+        <item>Yvonne</item>
+        <item>Daniel</item>
+        <item>Casey</item>
+        <item>Lavender</item>
+        <item>Claudia</item>
+        <item>Samuel</item>
+        <item>Sifa</item>
+        <item>Barnsley</item>
+        <item>Patrick</item>
+        <item>Pauline</item>
+        <item>Kip</item>
+        <item>Trixie</item>
+        <item>Cate</item>
+        <item>Prudence</item>
+        <item>Christabel</item>
+        <item>Elly</item>
+    </string-array>
+</resources>
